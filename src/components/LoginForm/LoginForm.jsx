@@ -28,7 +28,7 @@ function LoginForm() {
             
             <button type='submit'>Login</button>
             <article className='register-link' >
-                <p>Don't have an account? <a href="#">Register</a></p>
+                <p>Don't have an account? <a href="#">Register</a></p> 
             </article >
             
         </form>
